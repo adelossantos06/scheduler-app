@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Alyssa",
+        "default_shifts": [
+            {
+                "day": "Monday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "U:4:30 D:5 U:6 D:cutins U:GDSA D:12"
+            },
+            {
+                "day": "Tuesday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "D:5 U:6 D:cutins U:GDSA D:12"
+            },
+            {
+                "day": "Wednesday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "D:5 U:6 D:cutins U:GDSA D:12"
+            },
+            {
+                "day": "Thursday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "D:5 U:6 D:cutins U:GDSA D:12"
+            },
+            {
+                "day": "Sunday",
+                "start_time": "04:30",
+                "end_time": "08:30",
+                "responsibility": "D:8"
+            }
+        ]
+    },
+    {
+        "name": "Jill",
+        "default_shifts": [
+            {
+                "day": "Monday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "U:4 D:5 U:6 D:10"
+            },
+            {
+                "day": "Tuesday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "U:4 D:6 U:10"
+            },
+            {
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "U:4 D:6 U:10"
+            },
+            {
+                "day": "Thursday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "U:4 D:6 U:10"
+            },
+            {
+                "day": "Thursday",
+                "start_time": "14:30",
+                "end_time": "23:30",
+                "responsibility": "D:5:30 D:10"
+            }
+        ]
+    },
+    {
+        "name": "Jimmy",
+        "default_shifts": [
+            {
+                "day": "Monday",
+                "start_time": "03:00",
+                "end_time": "12:00",
+                "responsibility": "D:4:30 U:5 D:6 D:cutins"
+            },
+            {
+                "day": "Tuesday",
+                "start_time": "03:00",
+                "end_time": "12:00",
+                "responsibility": "D:4:30 D:6 F:GDSA"
+            },
+            {
+                "day": "Wednesday",
+                "start_time": "03:00",
+                "end_time": "12:00",
+                "responsibility": "D:4:30 D:6 F:GDSA"
+            },
+            {
+                "day": "Thursday",
+                "start_time": "03:00",
+                "end_time": "12:00",
+                "responsibility": "D:4:30 D:6 F:GDSA"
+            },
+            {
+                "day": "Friday",
+                "start_time": "03:00",
+                "end_time": "12:00",
+                "responsibility": "D:4:30 U:5 D:6 D:cutins"
+            }
+        ]
+    },
+    {
+        "name": "Kristina",
+        "default_shifts": [
+            {
+                "day": "Monday",
+                "start_time": "09:00",
+                "end_time": "19:00",
+                "responsibility": "U:GDSA D:12 D:4 U:5 D:6"
+            },
+            {
+                "day": "Tuesday",
+                "start_time": "10:00",
+                "end_time": "19:00",
+                "responsibility": "D:12 D:4 U:5"
+            },
+            {
+                "day": "Wednesday",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "responsibility": "D:12 D:4 U:5"
+            },
+            {
+                "day": "Thursday",
+                "start_time": "10:00",
+                "end_time": "18:00",
+                "responsibility": "D:12 D:4 U:5"
+            },
+            {
+                "day": "Friday",
+                "start_time": "09:00",
+                "end_time": "19:00",
+                "responsibility": "U:GDSA D:12 D:4 U:5 D:6"
+            }
+        ]
+    },
+    {
+        "name": "Ray",
+        "default_shifts": [
+            {
+                "day": "Tuesday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "D:5 U:6 D:10"
+            },
+            {
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "D:5 U:6 D:10"
+            },
+            {
+                "day": "Thursday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "D:5 U:6 D:10"
+            },
+            {
+                "day": "Friday",
+                "start_time": "14:00",
+                "end_time": "23:00",
+                "responsibility": "D:5 U:6 D:10"
+            },
+            {
+                "day": "Saturday",
+                "start_time": "14:30",
+                "end_time": "23:30",
+                "responsibility": "D:5 D:6 D:10"
+            }
+        ]
+    },
+    {
+        "name": "Sean",
+        "default_shifts": [
+            {
+                "day": "Tuesday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "U:4:30 U:5 D:GDSA"
+            },
+            {
+                "day": "Wednesday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "U:4:30 U:5 D:GDSA"
+            },
+            {
+                "day": "Thursday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "U:4:30 U:5 D:GDSA"
+            },
+            {
+                "day": "Friday",
+                "start_time": "03:00",
+                "end_time": "13:00",
+                "responsibility": "U:4:30 U:5 D:GDSA"
+            },
+            {
+                "day": "Saturday",
+                "start_time": "6:15",
+                "end_time": "10:15",
+                "responsibility": "D:8 D:9"
+            }
+        ]
+    }
+]
